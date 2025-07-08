@@ -20,7 +20,8 @@
 
     Получение credentials.json
 
-        Перейдите в [Google Cloud Console](https://console.cloud.google.com)
+        Перейдите в 
+   [Google Cloud Console](https://console.cloud.google.com)
 
         Откройте раздел "IAM и администрирование" → "Сервисные аккаунты"
 
